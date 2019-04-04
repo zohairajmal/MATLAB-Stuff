@@ -1,0 +1,4 @@
+Making a humanoid like robot. It has a spherical head, a body, shoulders & arms that move and revolve.
+It uses random movements. Different joints were created and linked together.
+Based on the code of SCARA Robot. 
+By : Zohair Ajmal
